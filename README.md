@@ -2,12 +2,14 @@
 
 # PROJECT Time IS Money
 
+A programming initiative for building an experimental program with a one of a kind algorithm called AVC (Automation/Valuation/Currency).
+
 ---
 </div>
 
 ## THE IDEA
 
-A programming initiative for building an experimental program with a one of a kind algorithm called AVC (Automation/Valuation/Currency).
+
 
 The idea is to create an asset that demonstrates exactly where it will peak, when it will crash and how many times it would reach all time high for investors to know exactly when to invest, how long to hold and when to sell with very minimal risk. Using an algorithm that automatically values said asset using time to increase value in increments with bitcoin as the reference currency.
 
@@ -40,7 +42,11 @@ Before programmers begin building their version of the program with their choice
 
 ## THE ASSET
 
-100 standard cookie cutter fungible token smart contracts were deployed on the Stacks blockchain. Each smart contract has 1 unique Tokenmobile with a supply ranging from 200 to 50000. There are 999,999 Tokenmobiles all together.
+100 standard cookie cutter fungible token smart contracts were deployed on the Stacks blockchain. 
+
+Each smart contract has 1 unique Tokenmobile with a supply ranging from 200 to 50000. 
+
+There are 999,999 Tokenmobiles all together.
 
 Each unique Tokenmobile has attributes/metadata which is essential for the AVC algorithm.
 
