@@ -104,7 +104,8 @@ in the image or video (go to * file) you are looking at 2 RACKS of 2 Tokenmobile
 
 5. Is the BOOST.
 6. Is the SUPPLY.
-Both are just for display in the UI. No actions in code.
+
+(boost and supply are just for display in the UI. No actions in code.)
 
 7. Is the AVC/Value of the Tokenmobile which will increase in either ₿0.00001 or ₿0.00003 increments everytime the countup ticks 60 seconds. The value resets to ₿0.00000 when a a new cycle starts. (Note that at the end of the final cycle, the value must stop and stay at its maximum valuation.
 
