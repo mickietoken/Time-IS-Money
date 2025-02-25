@@ -24,7 +24,7 @@ For this to be executed, experienced programmers are needed to build their versi
 
 Once started on IGNITION DAY, the program must run/tick without interruption for over 200 years and CAN NEVER BE STOPPED.
 
-The program must be like world time itself, multiple versions running on various devices, All following the same pattern/algorithm.
+The program must be like world time itself, multiple versions running on various servers, various devices, All following the same pattern/algorithm.
 
 
 
