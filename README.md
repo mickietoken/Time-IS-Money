@@ -5,7 +5,8 @@
 A programming initiative for building an experimental program with a one of a kind algorithm called AVC (Automation/Valuation/Currency).
 
 ---
- [Español](https://github.com/mickietoken/Time-IS-Money/blob/main/docs/spanish/README.es.md)
+
+[English](https://github.com/mickietoken/Time-IS-Money/blob/main/README.md) | [Español](https://github.com/mickietoken/Time-IS-Money/blob/main/docs/spanish/README.es.md)
 
 </div>
 
