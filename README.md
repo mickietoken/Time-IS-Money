@@ -87,7 +87,7 @@ So a Tokenmobile would increase by ₿0.00001 or ₿0.00003 every 60 seconds.
 
 ## THE PROGRAM
 
-![](/media/program.png)
+![](/media/program.jpg)
 
 
 Here is a demo of the program running the AVC algorithm.
@@ -122,7 +122,7 @@ The program also reqiures a backend server-side infrastruture, frontend interfac
 
 There is no template or open source code for the program/AVC. And the demo was coded just to run in terminal as visual demonstration. The reason for this is to avoid duplicate versions with possibly the same bugs in code. There must be different code of the same program. This sustaining the longevity and security of the program.
 
-So It is expected that each programmer codes their version of the program from complete scratch using their choice of tools, their own server, hosting solution and the fundimentals provided to them.
+So It is expected that each programmer codes their version of the program from complete scratch using their choice of tools, their own server, hosting solution and the fundimentals provided to them. 
 
 -
 -
