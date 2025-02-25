@@ -84,7 +84,7 @@ Voici une **démo du programme** exécutant l’**algorithme AVC**.
 Vous voyez ici **2 RACKS**, chacun contenant **1 Tokenmobile** en cours de valorisation via AVC. (**Le programme officiel comportera 100 RACKS**).
 
 1. **Adresse du smart contract** de l’actif en cours de valorisation.  
-2. **Compteur en temps réel**, formaté en **AA/DDD/HH/MM/SS** (*Remarque : les jours sont comptés sur 365 jours. Pas d’années bissextiles, de semaines ou de mois*).  
+2. **Compteur en temps réel**, formaté en **AA/JJJ/HH/MM/SS** (*Remarque : les jours sont comptés sur 365 jours. Pas d’années bissextiles, de semaines ou de mois*).  
 3. **Horodatage** indiquant quand le cycle actuel prendra fin et le compteur redémarrera. (*Les horodatages de chaque Tokenmobile sont fournis dans le fichier FUNDAMENTALS*).  
 4. **Nombre total de CYCLES**, qui diminue à chaque réinitialisation du compteur. (*Le premier cycle doit diminuer immédiatement après le démarrage de l’AVC d’un Tokenmobile, et non après sa fin*).  
 5. **Le BOOST**.  
