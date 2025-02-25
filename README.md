@@ -51,7 +51,7 @@ There are 999,999 Tokenmobiles all together.
 Each unique Tokenmobile has attributes/metadata which is essential for the AVC algorithm.
 
 
-![](/media/githubprev.png)
+![](/media/asset.png)
 
 
 SUPPLY - is 1 token out of the fixed supply in the smart contract.
@@ -87,7 +87,7 @@ So a Tokenmobile would increase by ₿0.00001 or ₿0.00003 every 60 seconds.
 
 ## THE PROGRAM
 
-*picture of the UI*
+![](/media/program.png)
 
 
 Here is a demo of the program running the AVC algorithm.
