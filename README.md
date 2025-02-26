@@ -150,4 +150,4 @@ Once programmers actively build and share test runs of the program, they will re
 
 ## THE ACCOMPLISHMENT
 
-If more than 100 versions of the program goes live on IGNITION DAY weather public or private, The asset and program would instantly have locked in significance and importance. Compared to stocks, metals, crypto, ETFs etc, it would be the only self valuated asset in the world.
+If more than 100 versions of the program goes live on IGNITION DAY whether public or private, The asset and program would instantly have locked in significance and importance. Compared to stocks, metals, crypto, ETFs etc, it would be the only self valuated asset in the world.
