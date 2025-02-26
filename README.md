@@ -6,7 +6,7 @@ A programming initiative for building an experimental program with a one of a ki
 
 ---
 
-[English](https://github.com/mickietoken/Time-IS-Money/blob/main/README.md) | [Español](https://github.com/mickietoken/Time-IS-Money/blob/main/docs/spanish/README.es.md) | [Dutch](https://github.com/mickietoken/Time-IS-Money/blob/main/docs/dutch/README.nl.md) | [Français](https://github.com/mickietoken/Time-IS-Money/blob/main/docs/french/README.fr.md)
+[English](https://github.com/mickietoken/Time-IS-Money/blob/main/README.md) | [Español](https://github.com/mickietoken/Time-IS-Money/blob/main/docs/spanish/README.es.md) | [Dutch](https://github.com/mickietoken/Time-IS-Money/blob/main/docs/dutch/README.nl.md) | [Français](https://github.com/mickietoken/Time-IS-Money/blob/main/docs/french/README.fr.md) | [Hindi](https://github.com/mickietoken/Time-IS-Money/blob/main/docs/indian/README.hi.md)
 
 </div>
 
