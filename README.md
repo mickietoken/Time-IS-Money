@@ -103,7 +103,7 @@ You are looking at 2 RACKS of 2 Tokenmobiles being valuated by AVC. (official pr
 
 2. Is the live countup formated in YY/DDD/HH/MM/SS (note that DAYS are to 365) No leap years, No weeks. No months. No milliseconds.
 
-3. Is the timestamp of when the current cycle will end/when the countup will stop to restart. (cycle timestamps for each Tokenmobile provided in FUNDIMENTALS file)
+3. Is the timestamp of when the current cycle will end/when the countup will stop to restart. (cycle timestamps for each Tokenmobile provided in FUNDAMENTALS file)
 
 4. Is the total CYCLES which decreases everytime the countup resets and timestamp updates. (note that the first cycle must decrease immediately when the AVC for a Tokenmobile starts. And not after it ends)
 
@@ -127,7 +127,7 @@ The program also reqiures a backend server-side infrastruture, frontend interfac
 
 ## THE CODE
 
-There is no template or open source code for the program/AVC to begin with. And the demo was coded just to run in terminal as visual demonstration. It is expected that each programmer codes their version of the program from complete scratch using their choice of tools, their own server, hosting solution and the fundimentals provided to them. 
+There is no template or open source code for the program/AVC to begin with. And the demo was coded just to run in terminal as visual demonstration. It is expected that each programmer codes their version of the program from complete scratch using their choice of tools, their own server, hosting solution and the fundamentals provided to them. 
 
 
 The reason for this, is to avoid duplicate versions with possibly the same bugs in code. There must be different code of the same program. This sustaining the longevity and security of the program.
